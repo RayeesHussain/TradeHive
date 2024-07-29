@@ -1,1 +1,1 @@
-TradeHive is a e-commerce platform.
+TradeHive is a e-commerce platform. It uses python. 
